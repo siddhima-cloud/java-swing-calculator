@@ -19,16 +19,6 @@ A simple desktop calculator application built with Java Swing — created as a l
 - src/ — Java source files
 - resources/ — images, icons or other assets
 
-If your project layout differs, adjust the commands above or use your IDE's run configuration.
 
-## Contributing
-
-Contributions and improvements are welcome. If you plan larger changes, please open an issue first to discuss the change.
-
-## License
-
-This repository is open source — include a license file if you want (MIT suggested).
-
----
 
 Author: siddhima-cloud
